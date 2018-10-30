@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "States"; ObjectID = "6zt-1q-ymi"; */
+"6zt-1q-ymi.text" = "States";
+
+/* Class = "UILabel"; text = "Sports"; ObjectID = "E8p-D0-sTU"; */
+"E8p-D0-sTU.text" = "Sports";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "KSK-EP-DcS"; */
+"KSK-EP-DcS.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Map"; ObjectID = "LP8-8q-c5a"; */
+"LP8-8q-c5a.text" = "Map";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "Nek-zE-JV9"; */
+"Nek-zE-JV9.title" = "Map";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "S2K-BY-H5O"; */
+"S2K-BY-H5O.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "SsK-3W-oHK"; */
+"SsK-3W-oHK.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "States"; ObjectID = "W8Z-gP-EQP"; */
+"W8Z-gP-EQP.normalTitle" = "Estados";
+
+/* Class = "UITabBarItem"; title = "Name"; ObjectID = "aB4-yI-jMg"; */
+"aB4-yI-jMg.title" = "Name";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "gmH-R0-p11"; */
+"gmH-R0-p11.text" = "Contraseña";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "h9r-wf-Eex"; */
+"h9r-wf-Eex.text" = "Name";
+
+/* Class = "UITabBarItem"; title = "Sports"; ObjectID = "iJp-FH-kn4"; */
+"iJp-FH-kn4.title" = "Sports";
+
+/* Class = "UIButton"; normalTitle = "Tab"; ObjectID = "ijB-LC-hZj"; */
+"ijB-LC-hZj.normalTitle" = "Lengüeta";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "lTh-GL-5Yb"; */
+"lTh-GL-5Yb.text" = "Nombre";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "nWY-DG-X0Q"; */
+"nWY-DG-X0Q.normalTitle" = "Back";
